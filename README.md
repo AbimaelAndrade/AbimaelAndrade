@@ -1,44 +1,64 @@
-<h1 align='center'>Olá, eu sou o Abimael Andrade 👨🏽‍💻</h1>
+# Abimael Andrade
 
-<br>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abimaelandrade&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-<p align="center">
-    Desenvolvedor Web fullstack, apaixonado por tecnologia. Sempre buscando novas formas de evoluir. 
-</p>
+**PT:** Engenheiro de Software Sênior · Full-Stack com foco em back-end  
+**EN:** Senior Software Engineer · Full-Stack with a back-end focus  
 
-<p align='center'>
-  <a href="https://wa.me/5599984186530?text=Olá!%20Abimael">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abimaelandrade/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:abimaelc.andrade@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />    
-  </a>&nbsp;&nbsp;
-</p>
+Uberlândia — MG, Brazil · aberto a conversas / open to chat (remote or hybrid)
 
-<h2>Algumas das principais tecnologias</h2>
+---
 
-<p align="center">
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /> 
-    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-    <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" /> 
-    <img src"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
+## Português
+
+Construo produtos web em escala com foco em **back-end** (APIs, microsserviços, dados e cloud), mantendo forte capacidade de **front-end** (Angular / React) quando a entrega exige ponta a ponta.
+
+### Agora
+- **Grupo Mateus** — Engenheiro de Software Sênior (Front-end)
+- Experiência relevante: **Líder Técnico** (time de 4) · DAS · Angular + Python
+- Antes: **Omega Energia (Serena)** — Full Stack sênior
+
+### Stack
+**Back:** Node / NestJS · Python (FastAPI / Django) · PHP/Laravel · Go (em evolução)  
+**Front:** TypeScript · Angular · React · Next.js  
+**Arquitetura:** Microsserviços · REST · gRPC · Clean / Hexagonal · DDD · TDD  
+**Dados & cloud:** PostgreSQL · MySQL · MongoDB · Redis · AWS (S3, RDS, EC2, Lambda, SQS, SNS) · Kafka / RabbitMQ
+
+### Formação
+- Especialização em **Análise de Dados e IA** — UFMA (TCC: pipeline OCR + NLP em Python)
+- Bacharelado em **Sistemas de Informação**
+
+### Sobre os repositórios
+A maior parte do meu trabalho recente é **código proprietário** (varejo e energia), então os repositórios públicos ficam mínimos de propósito.  
+Se quiser samples, case de arquitetura ou conversar sobre o stack, me chama.
+
+---
+
+## English
+
+I build web products at scale with a **back-end focus** (APIs, microservices, data, and cloud), while keeping strong **front-end** skills (Angular / React) for end-to-end delivery when needed.
+
+### Now
+- **Grupo Mateus** — Senior Software Engineer (Front-end)
+- Notable experience: **Tech Lead** (team of 4) · architecture docs (DAS) · Angular + Python
+- Earlier: **Omega Energia (Serena)** — Senior Full-Stack
+
+### Stack
+**Back:** Node / NestJS · Python (FastAPI / Django) · PHP/Laravel · Go (growing)  
+**Front:** TypeScript · Angular · React · Next.js  
+**Architecture:** Microservices · REST · gRPC · Clean / Hexagonal · DDD · TDD  
+**Data & cloud:** PostgreSQL · MySQL · MongoDB · Redis · AWS (S3, RDS, EC2, Lambda, SQS, SNS) · Kafka / RabbitMQ
+
+### Education
+- Specialization in **Data Analysis & AI** — UFMA (capstone: OCR + NLP pipeline in Python)
+- B.Sc. in **Information Systems**
+
+### About the repositories
+Most of my recent work is **proprietary** (retail and energy), so public repos stay intentionally minimal.  
+If you’d like samples, an architecture case study, or a chat about the stack, reach out.
+
+---
+
+## Contato / Contact
+- LinkedIn: [linkedin.com/in/abimaelandrade](https://www.linkedin.com/in/abimaelandrade)
+- E-mail: abimaelc.andrade@gmail.com
+
+*Senior Full-Stack (back-end focus) — Node · Python · Angular · AWS*
